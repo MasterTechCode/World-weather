@@ -3,7 +3,7 @@
 
 A beautiful, responsive weather application built with **React** and **Bootstrap** that displays real-time weather conditions and a 5-day forecast, featuring a dynamic UI that adapts to the current weather condition.
 
-#Live demo
+# Live demo
 
 https://world-weather-xi.vercel.app/
 
